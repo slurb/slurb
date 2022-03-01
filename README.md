@@ -6,6 +6,7 @@ I currently know:
 
 -lua
 
+-cpp
 
 I am currently learning:
 
