@@ -10,8 +10,4 @@ I currently know:
 
 I am currently learning:
 
--cpp
-
--lua
-
 -javascript
