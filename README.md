@@ -1,8 +1,6 @@
 I currently know:
 
--HTML
-
--CSS
+-HTML-css
 
 -lua
 
@@ -10,4 +8,4 @@ I currently know:
 
 I am currently learning:
 
--javascript
+-python
