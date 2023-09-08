@@ -1,11 +1,14 @@
-I currently know:
-
--HTML-css
-
+I am comfortable programming in these languages:
 -lua
 
--cpp
+-cpp/c
+
+-python
+
+-js
 
 I am currently learning:
 
--python
+-how to create a well developed backend (nodejs)
+
+-reverse engineering (this will neve stop :D)
